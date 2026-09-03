@@ -1,1 +1,1 @@
-print("T")
+print("This is a good strings")
