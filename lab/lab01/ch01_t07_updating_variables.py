@@ -13,3 +13,4 @@ november_rainfall = 5.06
 december_rainfall = 4.06
 
  annual_rainfall +=  november_rainfallseptember_rainfall + october_rainfall + december_rainfall
+
