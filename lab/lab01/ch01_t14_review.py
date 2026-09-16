@@ -1,3 +1,3 @@
 skill_complete = "Python Syntax"
 exercises_completed = 13
-points_per_exercis =
+points_per_exercis = 5
