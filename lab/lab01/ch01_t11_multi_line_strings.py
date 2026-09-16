@@ -1,5 +1,5 @@
 haiku ="""he old pond,
 A frog jumps in:
- Plop!
+Plop!
 
 """
