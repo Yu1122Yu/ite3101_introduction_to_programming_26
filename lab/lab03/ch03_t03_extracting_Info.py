@@ -1,4 +1,4 @@
- datetime import datetime
+datetime import datetime
 
 now = datetime.now()
 print(now)
