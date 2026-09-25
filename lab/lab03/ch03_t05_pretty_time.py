@@ -1,1 +1,3 @@
-from datetime imp
+from datetime import datetime
+
+now = datetime.now()
