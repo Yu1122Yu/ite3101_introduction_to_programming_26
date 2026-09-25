@@ -4,4 +4,4 @@ def shut_down(s:str)->str:
     eliif s=="no" :
         return "Shutting aborted"
     else:
-        r
+        return "S"
