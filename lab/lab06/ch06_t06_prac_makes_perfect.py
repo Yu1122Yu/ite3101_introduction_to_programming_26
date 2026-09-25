@@ -1,3 +1,3 @@
-
+def cube(number:)
 
 
