@@ -1,4 +1,4 @@
-# Import *everything* the sqrt function from math on line 3!
+# Import *everything* from the sqrt function from math on line 3!
 
 from math import *
 
