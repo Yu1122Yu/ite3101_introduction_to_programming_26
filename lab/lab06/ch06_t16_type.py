@@ -2,5 +2,5 @@
 # and a string on separate lines below.
 print(type(1))
 print(type(1.1))
-p
+print(type("hi"))
       
