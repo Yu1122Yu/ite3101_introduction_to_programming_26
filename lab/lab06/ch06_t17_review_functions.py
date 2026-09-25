@@ -3,3 +3,4 @@ def shut_down(s:str)->str:
         return "Shutting down"
     eliif s=="no" :
         return "Shutting aborted"
+    else:
