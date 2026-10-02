@@ -6,7 +6,7 @@ def plan_ride_cost(city:str)->int:
         return 183
     elif city == "Tampa":
         return 220
-    elif city == "Tampa":
+    elif city == "Pittsburgh":
             return 220
     elif city == "Tampa":
             return 220
