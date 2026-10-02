@@ -3,3 +3,5 @@ def hotel_cost(nights: int) -> int:
 
 def plan_ride_cost(city:str)->int:
     if city =="Charlotte":
+        return 183
+    elif city == 
