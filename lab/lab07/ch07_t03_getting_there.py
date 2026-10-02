@@ -2,4 +2,4 @@ def hotel_cost(nights: int) -> int:
     return 140 * nights
 
 def plan_ride_cost(city:str)->int:
-    if city ==
+    if city ==""
