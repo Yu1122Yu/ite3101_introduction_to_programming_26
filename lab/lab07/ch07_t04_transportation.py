@@ -16,5 +16,5 @@ def plane_ride_cost(city: str) -> int:
         cost = days * 40
         if days >= 7:
             cost -= 50
-        if days >=3:
+        elif days >=3:
             cost -= 20
