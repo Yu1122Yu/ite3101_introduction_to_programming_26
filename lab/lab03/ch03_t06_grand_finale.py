@@ -2,4 +2,4 @@ from datetime import datetimes
 
 now = datetimes.now()
 
-print('')
+print('%02d;')
