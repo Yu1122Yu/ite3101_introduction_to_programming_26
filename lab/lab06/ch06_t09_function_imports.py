@@ -1,4 +1,4 @@
-# Import *just* the  sqrt function module on line 3!
+# Import *just* the sqrt function module on line 3!
 
 from math import sqrt
 
