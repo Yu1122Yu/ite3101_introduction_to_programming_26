@@ -7,5 +7,5 @@ cat = animals[:3]
 dog = animals[3:6]
 
 # From the seventh character to the end
-frog = animals[6]
+frog = animals[6:]
 
