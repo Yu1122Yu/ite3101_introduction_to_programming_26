@@ -10,9 +10,7 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
 del zoo_animals['Unicorn']
 
 # Your code here!
-def zoo_animals['Sloth']
-def zoo_animals['Bengal Tiger']
-
+def
 def zoo_animals['Rockhopper Penguin'] = "Unknown Place"
 
 print(zoo_animals)
