@@ -13,5 +13,5 @@ del zoo_animals['Unicorn']
 def zoo_animals['Sloth']
 def zoo_animals['Sloth']
 
-
+def zoo_animals['Sloth']
 print(zoo_animals)
