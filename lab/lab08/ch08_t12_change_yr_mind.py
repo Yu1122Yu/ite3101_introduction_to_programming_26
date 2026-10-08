@@ -11,6 +11,6 @@ del zoo_animals['Unicorn']
 
 # Your code here!
 def
-def zoo_animals['Rockhopper Penguin'] = "Unknown Place"
+
 
 print(zoo_animals)
