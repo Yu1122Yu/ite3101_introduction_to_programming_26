@@ -11,5 +11,5 @@ del zoo_animals['Unicorn']
 
 # Your code here!
 def zoo_animals['Sloth']
-def zoo_animals[]
+def zoo_animals['']
 print(zoo_animals)
