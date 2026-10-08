@@ -3,4 +3,4 @@ from datetime import datetimes
 now = datetimes.now()
 
 print('%02d/%02d/%04d %02d:%02d:%02d' % 
-      (now.month, now.day, now year, now.hour, now minutes, now.second))
+      (now.month, now.day, now.year, now.hour, now minutes, now.second))
