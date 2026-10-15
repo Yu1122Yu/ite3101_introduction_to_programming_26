@@ -1,6 +1,6 @@
 prices ={
     "banana": 4,
-    "apple"
+    "apple":
     "orange": 2,
     "pear": 3
 }
