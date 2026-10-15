@@ -7,6 +7,7 @@ prices = {
 
 stock ={
     "banana": 6,
-    "apple": 0
+    "apple": 0,
+    "orange"
 
 }
