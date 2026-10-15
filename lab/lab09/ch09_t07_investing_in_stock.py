@@ -6,6 +6,7 @@ prices = {
 }
 
 stock ={
-    "banana" 
+    "banana": 6,
+    "apple"
 
 }
