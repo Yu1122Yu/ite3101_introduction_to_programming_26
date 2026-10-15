@@ -15,6 +15,7 @@ prices = {
 }
 
 # Write your code below!
+
 def cpmpute_bill(food: List[str])-> float:
     total: float = 0.0
     for item in food:
