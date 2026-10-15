@@ -1,3 +1,3 @@
 # Write your function below!
 
-def fizz_count(x:List[])->int:
+def fizz_count(x:List[str])->int:
