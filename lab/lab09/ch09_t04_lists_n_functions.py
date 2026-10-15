@@ -3,3 +3,4 @@
 from typing import List
 
 
+def fizz_count(words: List[str])
