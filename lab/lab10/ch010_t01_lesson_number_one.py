@@ -1,23 +1,23 @@
-lloyd ={
-    "name" :"Lloyd" ,
+lloyd = {
+    "name": "Lloyd",
     "homework": [],
     "quizzws": [],
     "tests": []
-    
+
 }
 
-alice ={
-    "name" :"Alice" ,
+alice = {
+    "name": "Alice",
     "homework": [],
     "quizzws": [],
     "tests": []
-    
+
 }
 
-tyler ={
-    "name" :"Tyler" ,
+tyler = {
+    "name": "Tyler",
     "homework": [],
     "quizzws": [],
     "tests": []
-    
+
 }
