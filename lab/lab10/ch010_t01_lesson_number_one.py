@@ -14,7 +14,7 @@ alice ={
     
 }
 
-lloyd ={
+tyler ={
     "name" :"Lloyd" ,
     "homework": [],
     "quizzws": [],
