@@ -50,7 +50,7 @@ def get_letter_grade(score: floa) -> str:
         return "B"
     if score >= 70:
         return "C"
-    elif score >= 60:
+    if score >= 60:
         return "D"
     else:
         return Flase
