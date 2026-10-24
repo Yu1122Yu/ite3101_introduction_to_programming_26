@@ -15,7 +15,7 @@ alice ={
 }
 
 tyler ={
-    "name" :"Lloyd" ,
+    "name" :"Tuler" ,
     "homework": [],
     "quizzws": [],
     "tests": []
