@@ -1,4 +1,4 @@
-from typing import List
+from typing import 3
 
 lloyd = {
     "name": "Lloyd",
@@ -20,6 +20,6 @@ tyler = {
 }
 
 
-def average (numbers: List(float
+def average (numbers: List
 
 # Add your function below!
