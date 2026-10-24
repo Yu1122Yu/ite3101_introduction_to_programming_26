@@ -9,7 +9,7 @@ lloyd = {
 alice = {
     "name": "Alice",
     "homework": [],
-    "quizzws": [],
+    "quizzes": [],
     "tests": []
 
 }
