@@ -54,3 +54,5 @@ def get_letter_grade(score: floa) -> str:
         return "D"
     else:
         return "F"
+
+print(get_letter_grade(get_letter_grad))
