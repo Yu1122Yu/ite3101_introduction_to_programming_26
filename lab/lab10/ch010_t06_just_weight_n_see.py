@@ -1,4 +1,4 @@
-from typing import 3
+from typing import 
 
 lloyd = {
     "name": "Lloyd",
