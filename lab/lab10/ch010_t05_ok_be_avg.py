@@ -18,4 +18,4 @@ tyler = {
 }
 
 # Add your function below!
-def aver
+def average(number)
