@@ -55,4 +55,4 @@ def get_letter_grade(score: floa) -> str:
     else:
         return "F"
 
-print(get_letter_grade(get_letter_grad))
+print(get_letter_grade(get_average(lloyd)))
