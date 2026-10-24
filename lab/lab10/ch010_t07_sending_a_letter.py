@@ -52,4 +52,4 @@ def get_letter_grade(score: floa) -> str:
         return "C"
     if score >= 60:
         return "D"
-    return Flase
+    return False
