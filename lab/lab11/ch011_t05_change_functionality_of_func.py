@@ -1,4 +1,4 @@
-num = 5
+m = 5
 
 
 def my_function(x: int) -> int:
