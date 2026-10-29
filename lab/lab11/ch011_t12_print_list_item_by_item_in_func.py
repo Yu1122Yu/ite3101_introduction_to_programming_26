@@ -7,4 +7,4 @@ def print_list(x:List[int])->None:
 
 
 
-       p
+       prin
