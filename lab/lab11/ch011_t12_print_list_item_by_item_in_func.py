@@ -5,6 +5,4 @@ def print_list(x:List[int])->None:
        print(x[i])
 
 
-
-
-       prin
+print_list(n)
