@@ -7,3 +7,4 @@ n = 13
 def add_function(x:int,y)->:
 return x+y
 
+print(add_function(m, n))
