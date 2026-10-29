@@ -6,3 +6,4 @@ def my_function(x: int) -> int:
 
 
 print(my_function(number))
+def add_fun
