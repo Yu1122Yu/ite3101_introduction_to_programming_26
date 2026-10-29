@@ -5,6 +5,7 @@ for i in range(0, len(n)):
 # Don't forget to return your new list!
 
 
-def double_list(x:List[int]) -> List[int]
+def double_list(x:List[int]) -> List[int]:
+    for
 
 # print(double_list(n))
