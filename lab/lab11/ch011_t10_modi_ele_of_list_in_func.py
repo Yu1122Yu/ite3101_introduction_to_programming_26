@@ -1,7 +1,7 @@
 from typing import List
 
 
-def list_function(x: List[int]) -> intt
+def list_function(x: List[int]) -> int
 return x[1]
 
  = [3, 5, 7]
