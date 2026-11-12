@@ -13,4 +13,4 @@ def double_list(x:List[int]) -> List[int]:
     
 
 
-# print(double_list(n))
+ print(double_list(n))
