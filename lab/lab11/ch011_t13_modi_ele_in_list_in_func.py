@@ -9,4 +9,4 @@ def double_list(x: List[int]) -> List[int]:
         result.append(num * 2)
     return result
 
-print
+print(double_list(n))
