@@ -2,12 +2,14 @@ from typing import List
 
 
 n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
-# Add your function here
 
-def flatten(list: List[List[int]])->List[int]:
+
+def flatten(lists: List[List[int]]) -> List[int]:
     result = []
-    for leveli in lists:
-        for level2 in level1:
-            result.append(level2)
-        return result
- print(flatten(n))
+    for inner_list in lists:
+        for item in inner_list:
+            result.append(item)
+    return result
+
+
+print(flatten(n))
