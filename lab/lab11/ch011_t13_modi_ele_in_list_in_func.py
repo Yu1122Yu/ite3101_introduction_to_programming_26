@@ -8,4 +8,5 @@ def double_list(x: List[int]) -> List[int]:
     for num in x:
         result.append(num * 2)
     return result
+
 print
