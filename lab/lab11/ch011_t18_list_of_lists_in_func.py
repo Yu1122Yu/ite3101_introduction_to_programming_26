@@ -10,4 +10,4 @@ def flatten(list: List[List[int]])->List[int]:
         for level2 in level1:
             result.append(level2)
         return result
-# print(flatten(n))
+ print(flatten(n))
