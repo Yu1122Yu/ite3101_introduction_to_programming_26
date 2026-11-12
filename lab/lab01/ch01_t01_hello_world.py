@@ -1,1 +1,1 @@
-28qprint("Hello, world!")
+print("Hello, world!")
